@@ -1,0 +1,7 @@
+Al treballar en NetBeans, pot forçar que al compilar en consola de comandes hi hagi algún error.
+
+Jo, amb NetBeans, he aconseguit implementar tota la pràctica correctament, és a dir, he compilat sense problemes. 
+
+He intentat fer-ho lo més polivalent posible, però t'aviso simplement.
+
+Blai
